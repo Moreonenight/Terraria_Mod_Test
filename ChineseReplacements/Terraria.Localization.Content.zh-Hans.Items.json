@@ -1,0 +1,12 @@
+{
+    "ItemName": {
+        "Bar": "吧台",
+        "StardustLargeCellBanner": "星细胞旗",
+        "StardustSmallCellBanner": "小星细胞旗",
+        "FossilOre": "坚固化石"
+    },
+    "ItemTooltip": {
+        "MonkStaffT3": "右键来转换攻击模式!",
+        "ClockworkAssaultRifle": "一次射出三发\n只会消耗一发弹药"
+    }
+}

@@ -1,0 +1,3 @@
+displayName = 中文翻译修正
+author = Moreonenight
+version = 0.1
